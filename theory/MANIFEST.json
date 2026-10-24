@@ -1,0 +1,62 @@
+[
+  {
+    "batch": "01-foundations",
+    "filename": "ECR_核心理念与工程断言_冻结版_v1.0.md",
+    "bytes": 12072,
+    "sha256": "4d7ad7cbca7ae5f5d70048cca306afd3c3714c7e5be81d7c1b18c73ce6eeab81"
+  },
+  {
+    "batch": "01-foundations",
+    "filename": "ECR_科研任务书_v1.0_研究主线恢复版.md",
+    "bytes": 20107,
+    "sha256": "9843f6a95e7d1d446d4cbc50a279f46c921b4671f68c8c5f9de801b07ece70ab"
+  },
+  {
+    "batch": "01-foundations",
+    "filename": "ECR_总纲_持续关联与知识塔专家化_2026-10-09.md",
+    "bytes": 3404,
+    "sha256": "a3fbe4f08e4039b08bf63f4c9f348621187298f70d698d9f02a6ddc02619858e"
+  },
+  {
+    "batch": "02-memory-mechanisms",
+    "filename": "ECR_聚沙成塔_整体重整版_2026-09-25.md",
+    "bytes": 71960,
+    "sha256": "2d56b81e824597260fd27843152c36d0b66dbc1c43253c8e8360153d5e5ea161"
+  },
+  {
+    "batch": "02-memory-mechanisms",
+    "filename": "ECR_召回自增强与依赖级联失效_冻结记录.md",
+    "bytes": 8166,
+    "sha256": "7f0bb6bb2b519f820e9f383a39b5c551d76de7e8f0b8cdb487af0ab558a96cbd"
+  },
+  {
+    "batch": "02-memory-mechanisms",
+    "filename": "ECR_popup_detective_research_v1.0.md",
+    "bytes": 46616,
+    "sha256": "ecf1efa12ad4a9ffa4d0a41c206b6cf996647a8b8c4a843000caf97af8d8e100"
+  },
+  {
+    "batch": "02-memory-mechanisms",
+    "filename": "ECR_认知入口与局部投影_商场女人案例与研究补充_2026-09-25.md",
+    "bytes": 45369,
+    "sha256": "1b0cd3996dab097d05915e6df0f6243491cf20179131be976c3a539bce351d76"
+  },
+  {
+    "batch": "03-research-extensions",
+    "filename": "ECR_首次角色创建_事件组装与可撤销认知编译_研究与Astra指令.md",
+    "bytes": 44881,
+    "sha256": "60c390a32c7e9924a7570fa61b0a588cc86649b047b4823a785394d2149795b3"
+  },
+  {
+    "batch": "03-research-extensions",
+    "filename": "ECR_从霸王龙到聚沙成塔_认知场景与大模型研究整理_2026-10-07.md",
+    "bytes": 68492,
+    "sha256": "d41dc29083c52d70eabbe97b1557ce5757d0f5b8ff45bdea9369fc2a3b461520"
+  },
+  {
+    "batch": "03-research-extensions",
+    "filename": "ECR_humor_creativity_research_v1.1_labels.md",
+    "bytes": 81659,
+    "sha256": "c89fb75e2eb6f88fda2a09a64b102531b3d9baa814965b188e0823bae11d56f9"
+  }
+]
